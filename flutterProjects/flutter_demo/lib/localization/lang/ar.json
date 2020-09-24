@@ -1,0 +1,18 @@
+{
+  "red": "أحمر",
+  "green": "أخضر",
+  "blue": "أزرق",
+  "orange": "برتقالي",
+  "yellow": "أصفر",
+  "black": "أسود",
+  "cgQ_Title":"اختر لون الكلمة التالية",
+  "cgPage_Title": "خمن اللون",
+  "goPage_Title": "إنتهت اللعبة",
+  "goPage_error_msg": "كل إجاباتك خاطئة",
+  "goPage_success_msg": "كل إجاباتك صحيحة",
+  "goPage_most_error_msg": "أغلب إجاباتك خاطئة",
+  "goPage_some_error_msg": "بعض إجاباتك خاطئة",
+  "goPage_some_success_msg": "بعض إجاباتك صحيحة",
+  "goPage_play_again": "أعد اللعبة",
+  "hrPage_Title": "طلب Http"
+}

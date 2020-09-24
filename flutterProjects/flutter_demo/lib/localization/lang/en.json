@@ -1,0 +1,19 @@
+{
+  "red": "Red",
+  "green": "Green",
+  "blue": "Blue",
+  "orange": "Orange",
+  "yellow": "Yellow",
+  "black": "Black",
+  "cgQ_Title":"Pleas choose the word color",
+  "cgPage_Title": "Guess the color",
+  "goPage_Title": "Game Over",
+  "goPage_error_msg": "All answers are wrong",
+  "goPage_success_msg": "All answers are right",
+  "goPage_most_error_msg": "Most answers are wrong",
+  "goPage_some_error_msg": "Some answers are wrong",
+  "goPage_some_success_msg": "Some answers are right",
+  "goPage_play_again": "Play again",
+  "hrPage_Title": "Http Request"
+}
+
